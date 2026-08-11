@@ -1,0 +1,73 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =========================
+# Java / Compilação
+# =========================
+*.class
+target/
+build/
+
+# =========================
+# Maven
+# =========================
+.mvn/
+mvnw
+mvnw.cmd
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Arquivos temporários
+# =========================
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+
+# =========================
+# Sistema operacional
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Outros arquivos gerados
+# =========================
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
